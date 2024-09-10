@@ -9,3 +9,5 @@ while(k < indice):
 print(soma)
 
 #saída: 91
+
+print("Oi")
