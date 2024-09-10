@@ -9,3 +9,7 @@ if valor1 == inserir:
     print(f"{inserir} faz parte da sequência fibonacci!")
 else:
     print(f"{inserir} não faz parte da sequência fibonacci!")
+    
+#adicionando documentação
+
+print("Oi")
